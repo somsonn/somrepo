@@ -1,0 +1,18 @@
+{
+    "montserrat": {
+        "100_italic": "C:\\xampp\\htdocs\\allowance\\storage\\fonts\/\/montserrat_100_italic_f6e39813e81e2a2915375a01035869ff",
+        "100": "C:\\xampp\\htdocs\\allowance\\storage\\fonts\/\/montserrat_100_a33175ed70b9f7658ae81c9efa61938d",
+        "200": "montserrat_200_d36113c7a8643243e5b2a0e2685ba6ee"
+    },
+    "open sans": {
+        "normal": "C:\\xampp\\htdocs\\allowance\\storage\\fonts\/\/open_sans_normal_e3f9da90edb379e243cceabb2fdb3f0a",
+        "500": "C:\\xampp\\htdocs\\allowance\\storage\\fonts\/\/open_sans_500_206276ec5153db0ed3baebdafc92e714",
+        "bold": "open_sans_bold_074d893389082c36506eb383f9ca70e7"
+    },
+    "outfit": {
+        "200": "outfit_200_b264c26ce792f8d61caf4b78de1b6b41"
+    },
+    "syne tactile": {
+        "normal": "syne_tactile_normal_60524448dfcbd3f6641f5e9c5be4cf84"
+    }
+}
